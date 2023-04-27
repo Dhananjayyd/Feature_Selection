@@ -73,6 +73,32 @@ By applying these techniques, you can identify the most important features for p
 
 Overall, feature selection can help improve model performance, reduce training time, increase interpretability, save costs, and simplify data management.
 
+**DISADVANTAGES**
+
+While feature selection has many advantages, there are also some potential disadvantages to consider:
+
+>1. ***Information Loss***: Removing features from the dataset can lead to information loss, especially if the features are relevant to the target variable. 
+>This can result in decreased model performance or inaccurate predictions.
+>
+>2. ***Model Bias***: Removing features based on certain criteria can introduce bias into the model and lead to incorrect predictions.
+>
+>3. ***Increased Risk of Overfitting***: Removing too many features can lead to overfitting, where the model performs well on 
+>the training data but poorly on the test data.
+>
+>4. ***Increased Complexity***: The process of selecting features can be time-consuming and require domain knowledge, 
+>especially for large datasets.
+>
+>5. ***Model Performance Trade-offs***: Depending on the application, certain features may be important for some tasks but not for others. 
+>The selection of features should be optimized to maximize performance for the specific task at hand.
+
+In summary, feature selection can lead to information loss, model bias, overfitting, increased complexity, and performance trade-offs. 
+It is important to carefully evaluate the potential drawbacks and benefits of feature selection and to choose an appropriate method that balances these factors.
+
+***Feature Selection*** algorithm might tend to overfit.
+
+
+
+
 
 
 
