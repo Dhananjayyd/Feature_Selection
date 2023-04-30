@@ -5,11 +5,8 @@ Feature selection is the process of selecting a subset of relevant features (var
 ***Curse Of Dimensionality***
 
 >Curse of Dimensionality refers to a set of problems that arise when working with high-dimensional data.
->
 >The dimension of a dataset corresponds to the number of attributes/features that exist in a dataset. 
->
 >A dataset with a large number of attributes, generally of the order of a hundred or more, is referred to as high dimensional data.
->
 >Some of the difficulties that come with high dimensional data manifest during analyzing or visualizing the data to identify patterns, 
 >and some manifest while training machine learning models. The difficulties related to training machine learning models 
 >due to high dimensional data are referred to as the ‘Curse of Dimensionality’.
